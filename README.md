@@ -113,35 +113,35 @@ Incorrect customer information caused 18% of cancellations.
 
 Based on the findings, the following actionable steps are recommended:
 
-Optimize Inventory for High-Demand Categories
+#### Optimize Inventory for High-Demand Categories
 
-Increase stock for Electronics and Home Appliances to prevent stockouts.
+#### Increase stock for Electronics and Home Appliances to prevent stockouts.
 
-Discontinue or promote Pharmacy and Books & Stationery categories with targeted discounts.
+#### Discontinue or promote Pharmacy and Books & Stationery categories with targeted discounts.
 
-Improve Logistics & Delivery Efficiency
+#### Improve Logistics & Delivery Efficiency
 
-Reduce 19% delay rate in Sylhet Division by streamlining logistics.
+#### Reduce 19% delay rate in Sylhet Division by streamlining logistics.
 
-Strengthen partnerships with top-performing shipment providers such as Daily Shopping.
+#### Strengthen partnerships with top-performing shipment providers such as Daily Shopping.
 
-Enhance Customer Experience & Retention
+#### Enhance Customer Experience & Retention
 
-Introduce loyalty programs to increase customer retention.
+#### Introduce loyalty programs to increase customer retention.
 
-Optimize the checkout process by promoting mobile banking, the most preferred payment method.
+#### Optimize the checkout process by promoting mobile banking, the most preferred payment method.
 
-Boost Sales Team Performance
+#### Boost Sales Team Performance
 
-Reward top-performing salespersons (e.g., BDT 12.3M+ sales contributors).
+#### Reward top-performing salespersons (e.g., BDT 12.3M+ sales contributors).
 
-Provide training for underperforming sales regions like Rangpur.
+#### Provide training for underperforming sales regions like Rangpur.
 
-Refine Marketing Strategies
+#### Refine Marketing Strategies
 
-Allocate more ad budget to high-revenue categories such as Electronics and Fashion.
+#### Allocate more ad budget to high-revenue categories such as Electronics and Fashion.
 
-Introduce targeted promotions for low-selling products.
+#### Introduce targeted promotions for low-selling products.
 
 ## Bangladesh E-Commerce Landscape
 
