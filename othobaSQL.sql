@@ -1,3 +1,28 @@
+Othoba Sales Analysis
+This repository contains SQL queries to analyze Othoba.com sales data, offering insights into total orders, revenue, product performance, and customer behavior.
+
+Database Schema
+The othoba_sales table includes the following key fields:
+
+Order & Shipping Details: SubOrderId, OrderShippingExclTax, ShipmentBy, ShippingStatus, DeliveredDate
+Customer Details: ShippingFullName, ShippingPhoneNumber, OrderCreatedOn, Month, Year, PaymentMethod
+Product & Financial Data: ProductName, SKU, Category, Quantity, RegularPrice, TotalSellingPrice, Profit, SalesPerson
+Status & Metrics: OrderStatus, FinalOrderStatus, PaymentStatus, B2C_B2B
+Key Queries
+Total Orders: Counts unique orders using SubOrderId.
+Order Timeframe: Finds the earliest and latest order dates.
+Average Order Value (AOV): Calculates average order value by dividing total sales by total distinct orders.
+Total Revenue: Sums revenue for completed orders (FinalOrderStatus = 'Sales').
+Top Product Category: Identifies the best-performing product category based on sales.
+Top 5 Customers by Spending: Ranks customers by total spending.
+Repeat Customer Rate: Calculates the percentage of customers who placed more than one order.
+Most Popular Order Time: Finds the most frequent order hour.
+Sales by Day of Week: Analyzes total sales for each day of the week.
+Revenue Over Time: Tracks cumulative revenue over time.
+Top Products by Revenue and Quantity: Ranks products within categories by revenue and quantity sold.
+
+
+--------------Queries:
 CREATE TABLE othoba_sales (
     SubOrderId VARCHAR(50),
     OrderShippingExclTax DECIMAL(10, 2),
