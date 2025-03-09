@@ -1,7 +1,7 @@
 
 # Pran RFL E-Commerce Data Analysis (Othoba.com)
 
-## Challenges in the E-Commerce Landscape
+## →Challenges in the E-Commerce Landscape
 
 E-commerce has revolutionized the way people shop, but it also presents numerous operational challenges. Othoba.com, the e-commerce of Pran RFL, has been experiencing inefficiencies that impact its overall performance.
 
@@ -11,7 +11,7 @@ To address these challenges, a deep dive into the data was conducted, revealing 
 
 ### Data Source
 🔴Confidential e-commerce database containing order details, customer transactions, delivery records, and profitability metrics.
-## The Approach: A Data-Driven Solution
+## →The Approach: A Data-Driven Solution
 
 To tackle these challenges, a structured data analysis plan was implemented:
 
@@ -20,7 +20,7 @@ To tackle these challenges, a structured data analysis plan was implemented:
 3. **Visualizing Key Insights** – Using graphs and heatmaps to highlight sales trends, cancellations, and vendor performance.
 4. **Providing Actionable Recommendations** – Developing strategies to reduce cancellations, improve logistics, and enhance profitability.
 
-## Data Cleaning and Preprocessing
+## →Data Cleaning and Preprocessing
 
 Before analysis, several data cleaning steps were performed:
 
@@ -34,7 +34,7 @@ Before analysis, several data cleaning steps were performed:
 - **Replacing Erroneous Values:**
   - Replaced `'#REF!'` values in `B2C/B2B` column with 'Corporate'.
 
-## Exploratory Data Analysis (EDA)
+## →Exploratory Data Analysis (EDA)
 ### 1. Yearly Order Trends (2023 vs 2024)
 
 - There is a **noticeable decline in total orders in 2024** compared to 2023.
@@ -150,7 +150,7 @@ Before analysis, several data cleaning steps were performed:
 - **Delivery delays and payment issues dominate customer complaints**.
 - **Negative order experiences correlate with lower repeat purchase rates**.
 
-## Stakeholder Challenges Identified
+## →Stakeholder Challenges Identified
 
 - **High order cancellations due to shipping delays**.
 - **Certain vendors causing major delivery delays**.
@@ -159,7 +159,7 @@ Before analysis, several data cleaning steps were performed:
 - **Uneven sales distribution across divisions and states**.
 - **Significant drop in total sales in 2024 compared to 2023**.
 
-## Recommendations
+## →Recommendations
 
 - **Optimize logistics to reduce delivery delays**.
 - **Encourage online payments to minimize cancellations**.
