@@ -186,6 +186,8 @@ If you have any feedback, please reach out at srijonsheon.19@gmail.com
 
 Other Problem Statements:
 
-[E-commerce SQL Analysis README](https://github.com/SrijonSync/E-commerce-Sales-Analysis-2023-2024--SQL-/blob/main/README.md)
+[E-commerce SQL Analysis README](https://github.com/SrijonSync/E-commerce-Sales-Analysis-2023-2024--SQL-/tree/main)
+
+[E-commerce Power BI DashboardREADME](https://github.com/SrijonSync/Othoba-Sales-Dashboard---Power-BI-Project)
 
 
