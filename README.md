@@ -172,8 +172,10 @@ Before analysis, several data cleaning steps were performed:
 This analysis provides deep insights into Othoba.com's operational inefficiencies, profitability gaps, and customer behavior. By implementing the recommendations, stakeholders can enhance efficiency, boost sales, and improve the overall customer experience.
 
 ## Authors
+
 [@SrijonSync](https://github.com/SrijonSync)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/srijon-das)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijon-das/)
 
 ## Feedback
 
