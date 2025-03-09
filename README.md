@@ -1,4 +1,5 @@
-<!-- Uploading "2.png"... -->
+![Image](https://github.com/user-attachments/assets/1b5b2747-63e5-418e-a902-7ac3fde8c92f)
+
 # Pran RFL E-Commerce Data Analysis (Othoba.com)
 
 ## →Challenges in the E-Commerce Landscape
